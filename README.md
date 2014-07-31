@@ -19,7 +19,7 @@ You ([CLIENT COMPANY]) are hiring me (Trent Oswald/theRebelRobot Development) to
 
 ###What do both parties agree to do?
 
-As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that I set together. You also agree to stick to the payment schedule set out at the end of this contract.
+As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project, including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. Deadlines work two ways and you will also be bound by any dates that we set together. You also agree to stick to the payment schedule set out at the end of this contract.
 
 I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off my work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give me.
 
@@ -27,19 +27,21 @@ I have the experience and ability to perform the services you need from me and I
 
 ####What I need from you
 
-Below is a list of items I’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but I will let you know as soon as we’re able if we’ve forgotten something I need.
+Below is a list of items I’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but I will let you know as soon as I'm able if I’ve forgotten something I need.
 
 * [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
 
-####Browser Compatibility
+####Browser and Device Compatibility
 
-Browser Coverage: [IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Additionally I test on mobile Safari and mobile Chrome (iOS devices, Android devices).]
+Browser Coverage: [IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Mobile Safari and mobile Chrome (iOS devices, Android devices).]
 
-I have agreed to test my code in the specified browsers above. If you need browsers other than those listed tested, please provide me with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
-I code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
+Device Coverage: [Desktop large screen, Desktop laptop screen, iPad Mini, iPhone, Galaxy S4, Nexus 7, etc.]
+
+I have agreed to test my code in the specified browsers and devices above. Testing additional browsers or devices requires more testing time as well as potentially needing to code for that specific browser.
+I code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Please keep in mind, there are certain browsers (namely IE8 and below) that do not have as robust of rendering systems, and the user experience may need to be adjusted to accommodate those shortcomings. Please also keep in mind that different devices have different screen dimensions, and deviations from the original design may be neccessary to accommodate these differences.
 
 ####Version Control
-Git allows me to keep track of all changes that happen in your application. This way, if a bug is introduced I can quickly find where it was added and roll back to the previous bug-free state while I fix things up! I require code be under version control so I can work on your application with your employees or other contractors without worrying that I may be undoing or overwriting each others changes.
+Git allows me to keep track of all changes that happen in your application. This way, if a bug is introduced I can quickly find where it was added and roll back to the previous bug-free state while I fix things up! I require code be under git version control so I can work on your application with your employees or other contractors without worrying that I may be undoing or overwriting each others changes.
 
 ####Timeline
 This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
@@ -58,10 +60,10 @@ Contact Hours:[regular business hours (Monday-Friday, 9am-5pm CST, excluding hol
 
 All communications will be made during the time specified above, and I will return any contact requests within one business day unless I notify you ahead of time that I will be out of the office. Of course I understand that emergencies do arise, so in the case of one know that my hours will be billed at time and a half. I appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the Utah Valley area, keeping in mind that any decisions that are made will be written down and require your written approval.
 
-As I value your time as well as my own, I ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that I can be fully prepared. If I am unable to attend a meeting at your suggested time, I will be happy to provide two times that will work for me. meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
+As I value your time as well as my own, I ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that I can be fully prepared. If I am unable to attend a meeting at your suggested time, I will be happy to provide two times that will work for me. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
 ####Project Management
-If you do not have a preferred project management tool, I will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. I’ll be relying on you to participate by answering my questions, stating your approval, requesting changes, and verifying completeness through the tool as well. I ask for a one business day turnaround time on responses so I can keep things moving along at a pace that will allow me to hit the milestones I decided on together. 
+If you do not have a preferred project management tool, I will provide you with a login for mine where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. I’ll be relying on you to participate by answering my questions, stating your approval, requesting changes, and verifying completeness through the tool as well. I ask for a one business day turnaround time on responses so I can keep things moving along at a pace that will allow me to hit the milestones we decided on together. 
 To keep the project organized and the management of it easier, I prefer not to communicate any of the information stated above over ordinary email.
 
 ###Legal stuff
@@ -85,7 +87,7 @@ I love to show off my work and share what I have learned with other people, so I
 
 ###Payments
 
-I are sure you understand how important it is as a small business that you pay the invoices that I send you promptly.  As we're also sure you'll want to stay friends, you agree to stick tightly to the following payment schedule.
+I are sure you understand how important it is as a small business that you pay the invoices that I send you promptly.  As I'm also sure you'll want to stay friends, you agree to stick tightly to the following payment schedule.
 
 ####Payment Schedule
 
