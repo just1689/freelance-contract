@@ -1,9 +1,9 @@
 ##theRebelRobot Development
 *Trent Oswald - Software Engineer*
 
-*510 North 500 East, American Fork, UT 84003*
+*[MY ADDRESS]*
 
-*801-623-1747*
+*[MY PHONE]*
 
 *trentoswald@therebelrobot.com*
 
