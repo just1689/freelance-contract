@@ -38,9 +38,6 @@ Browser Coverage: [IE7+ as well as the latest releases of Firefox, Safari, and C
 I have agreed to test my code in the specified browsers above. If you need browsers other than those listed tested, please provide me with a list of the browsers and devices. Testing additional browsers requires more testing time as well as potentially needing to code for that specific browser.
 I code everything with progressive enhancement in mind. This means that modern browsers may show slight differences to older browsers (such as text and box shadows, rounded corners, etc) based on what a browser is able to render. Any changes will not affect the user experience.
 
-####Testing
-I write tests before I write my code, which allows me to make sure that all required functionality is not only present, but works no matter how often I change things around. If your employees or other contractors will be working on the project along side me, I require that they also write tests for all code they produce to make sure I am all on the same page and not stepping on each others toes.
-
 ####Version Control
 Git allows me to keep track of all changes that happen in your application. This way, if a bug is introduced I can quickly find where it was added and roll back to the previous bug-free state while I fix things up! I require code be under version control so I can work on your application with your employees or other contractors without worrying that I may be undoing or overwriting each others changes.
 
@@ -92,9 +89,11 @@ I are sure you understand how important it is as a small business that you pay t
 
 ####Payment Schedule
 
-I bill every other week on Friday and all invoices are payable upon receipt.
+Pay Schedule: [every other week on Friday and all invoices are payable upon receipt.]
 
-A deposit of [DEPOSIT AMOUNT] is due up front and will be subtracted from the last invoice.
+Deposit Amount: [DEPOSIT AMOUNT]
+
+If specified above, a deposit of the amount specified is due up front and will be subtracted from the last invoice.
 
 Any payments not received within 7 days will halt work until the payment is received. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
