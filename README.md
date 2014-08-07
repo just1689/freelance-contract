@@ -44,12 +44,17 @@ I code everything with progressive enhancement in mind. This means that modern b
 Git allows me to keep track of all changes that happen in your application. This way, if a bug is introduced I can quickly find where it was added and roll back to the previous bug-free state while I fix things up! I require code be under git version control so I can work on your application with your employees or other contractors without worrying that I may be undoing or overwriting each others changes.
 
 ####Timeline
-This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
-Below is the milestone schedule:
 
-* [MILESTONE NAME, # DAYS REQUIRED]
+Weekly Hour Range: [10-15 hours]
 
-This contract will be declared complete when all work completed has been paid in full.
+Circle Back Schedule: [3 months]
+
+You will be hiring me on retainer. This means beginning [START DATE], I will work within the hour range listed above on a weekly basis. We will circle back and revisit this range in the time specified above. 
+Below is a milestone schedule that I will be working toward:
+
+* [MILESTONE NAME, PROJECTED DUE DATE]
+
+This contract will be declared complete when revisited at the date listed above. A new contract will be drafted at that time for continued work.
 
 ####Additional development
 Any additional development needed above and beyond what I have agreed to here must be accompanied by an additional contract which I will be happy to provide upon request. I retain the right to refuse additional work that is not specifically outlined in this document.
@@ -92,10 +97,6 @@ I are sure you understand how important it is as a small business that you pay t
 ####Payment Schedule
 
 Pay Schedule: [every other week on Friday and all invoices are payable upon receipt.]
-
-Deposit Amount: [DEPOSIT AMOUNT]
-
-If specified above, a deposit of the amount specified is due up front and will be subtracted from the last invoice.
 
 Any payments not received within 7 days will halt work until the payment is received. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
