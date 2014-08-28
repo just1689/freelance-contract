@@ -1,5 +1,7 @@
-##theRebelRobot Development
+##Freelancing Contract
 *Trent Oswald - Software Engineer*
+
+*on behalf of theRebelRobot*
 
 *[MY ADDRESS]*
 
