@@ -1,4 +1,4 @@
-##theRebelRobot Development
+##Rebel Robot Development LLC
 *Trent Oswald - Software Engineer*
 
 *[MY ADDRESS]*
@@ -15,7 +15,7 @@ I will always do my best to fulfill your needs and meet your goals, but sometime
 
 ####In short:
 
-You ([CLIENT COMPANY]) are hiring me (Trent Oswald/theRebelRobot Development) to [PROJECT NAME OR DESCRIPTION] at the hourly rate of [HOURLY RATE] per hour. Of course it's a little more complicated, but we'll get to that.
+You ([CLIENT COMPANY]) are hiring me (Trent Oswald with Rebel Robot Development LLC) to [PROJECT NAME OR DESCRIPTION] at the hourly rate of [HOURLY RATE] per hour. Of course it's a little more complicated, but we'll get to that.
 
 ###What do both parties agree to do?
 
@@ -111,7 +111,7 @@ Although the language is simple, the intentions are serious and this contract is
 
 
 __________________________________________________
-Signed by Trent Oswald and on behalf of theRebelRobot Development
+Signed by Trent Oswald and on behalf of Rebel Robot Development LLC
 
 
 __________________________________________________
