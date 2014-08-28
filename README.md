@@ -33,7 +33,7 @@ Below is a list of items I’ll need up front from you. Every project is slightl
 
 ####Browser and Device Compatibility
 
-Browser Coverage: [IE7+ as well as the latest releases of Firefox, Safari, and Chrome. Mobile Safari and mobile Chrome (iOS devices, Android devices).]
+Browser Coverage: [IE10+ as well as the latest releases of Firefox, Safari, and Chrome. Mobile Safari and mobile Chrome (iOS devices, Android devices).]
 
 Device Coverage: [Desktop large screen, Desktop laptop screen, iPad Mini, iPhone, Galaxy S4, Nexus 7, etc.]
 
